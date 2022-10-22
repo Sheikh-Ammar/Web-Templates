@@ -1,0 +1,162 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+/* Main Page Start */
+
+#left p{
+    font-family: "Brandon Grotesque Bold";
+    font-size: 13px;
+    color:#30151a
+}
+
+#right p{
+    font-family: "Brandon Grotesque Bold";
+    font-size: 13px;
+    color:#30151a;
+
+}
+
+
+/* #nav1{
+    position: sticky;
+    top: 10px;
+    z-index: 1;
+border: 1px solid white;
+} */
+
+.search{
+
+    display:flex;
+    justify-content: space-around;
+    border: 2px  red;
+    margin-left:0px;
+    margin-top: 20px;
+}
+
+.search i{
+    font-size: 25px;
+}
+#m1{
+    border: 2px  black;
+}
+
+#m1 p{
+    font-size:11px;
+    line-height: 2;
+}
+
+.img1{
+
+    justify-content: space-between;
+}
+
+.img1 h2{
+    font-family: "brandon-grotesque";
+    line-height: 1.35;
+}
+
+#a22{
+    text-decoration: none;
+    /* margin-left: 220px; */
+    color: black;
+}
+
+.offer{
+    border: 1px solid cyan;
+}
+
+.offer h1{
+    text-align: center;
+    color: black;
+
+}
+
+.offer p{
+    text-align: center;
+    color: black;
+}
+
+.footer h3{
+    text-align: center;
+    color:black;
+}
+
+
+
+.sec1{
+    text-align: center;
+}
+
+.sec2{
+    text-align: center;
+}
+
+.sec3{
+    text-align: center;
+}
+
+.sec4{
+    text-align: center;
+}
+.sec4 li{
+    display: inline-block;
+}
+
+.sec4 img{
+    height: 50px;
+    width: 50px;
+}
+
+.sec5{
+    text-align: center;
+}
+
+.sec5 li{
+    display: inline-block;
+    margin-left: 35px;
+}
+
+/* Main Page End */
+
+/* Sale Start */
+
+.checkbox{
+    border: 1px  black;
+}
+
+
+#checkm{
+    margin-left: 120px;
+    margin-top: -75px;
+
+}
+
+#checkm1{
+    margin-left: 120px;
+}
+
+.card{
+    position: relative;
+}
+
+.badge{
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+
+#section8{
+    width: 100%;
+}
+
+/* Sale End */
+
+ul li:hover{
+    background-color: green;
+    border-radius: 20%;;
+}

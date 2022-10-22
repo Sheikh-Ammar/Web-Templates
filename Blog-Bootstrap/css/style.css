@@ -1,0 +1,18 @@
+*{
+    margin: 0; padding: 0; box-sizing: border-box; scroll-behavior: smooth;
+}
+
+/* NAVBAR */
+.menu{
+    margin: 0px 20px;
+    color: green;
+}
+.menu-link{
+    font-size: 1rem;
+    color: red;
+}
+.menu-link:hover{
+    background-color: green;
+    color: #fff;
+}
+
